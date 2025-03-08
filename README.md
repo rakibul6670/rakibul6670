@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD.Rakibul</h1>
-<h3 align="center">💙 Passionate Flutter Developer. Building beautiful, cross-platform apps.🚀 Exploring the world of UI/UX & mobile development. 🔧 Tech Stack: Flutter, Dart, Firebase, REST APIs, and more.</h3>
+<h3 align="center">👋 Hi, I’m *Rakibul*! 💙 Passionate *Flutter Developer* | Building beautiful, cross-platform apps. 🚀 Exploring the world of UI/UX & mobile development. 📱 Love turning ideas into pixel-perfect, responsive designs. 🔧 Tech Stack: Flutter, Dart, Firebase, REST APIs, and more. 🌱 Always learning, always coding. Let’s connect and build something amazing! ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul6670&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul6670" /> </p>
 
