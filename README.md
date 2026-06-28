@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul6670&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul6670" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Project**
+- 🔭 I’m currently working on **Harmonic builder Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
